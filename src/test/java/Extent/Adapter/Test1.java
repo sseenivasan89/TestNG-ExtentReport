@@ -3,7 +3,7 @@ package Extent.Adapter;
 import org.testng.Assert;
 import org.testng.annotations.Listeners;
 
-@Listeners(ExtentITestListenerClassAdapter.class)
+//@Listeners(ExtentITestListenerClassAdapter.class)
 public class Test1 {
 
 	@org.testng.annotations.Test (priority = 1)

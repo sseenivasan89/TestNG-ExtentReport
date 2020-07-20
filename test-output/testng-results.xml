@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="4" passed="2" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-07-18T14:17:52 IST" name="Suite" finished-at="2020-07-18T14:17:52 IST" duration-ms="311">
+  <suite started-at="2020-07-20T10:41:12 IST" name="Suite" finished-at="2020-07-20T10:41:13 IST" duration-ms="551">
     <groups>
     </groups>
-    <test started-at="2020-07-18T14:17:52 IST" name="Test" finished-at="2020-07-18T14:17:52 IST" duration-ms="311">
+    <test started-at="2020-07-20T10:41:12 IST" name="Test" finished-at="2020-07-20T10:41:13 IST" duration-ms="551">
       <class name="Extent.Adapter.Test2">
-        <test-method signature="Test2_1()[pri:1, instance:Extent.Adapter.Test2@6e509ffa]" started-at="2020-07-18T14:17:52 IST" name="Test2_1" finished-at="2020-07-18T14:17:52 IST" duration-ms="3" status="PASS">
+        <test-method signature="Test2_1()[pri:1, instance:Extent.Adapter.Test2@1356d4d4]" started-at="2020-07-20T10:41:13 IST" name="Test2_1" finished-at="2020-07-20T10:41:13 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2_1 -->
-        <test-method signature="Test2_2()[pri:2, instance:Extent.Adapter.Test2@6e509ffa]" started-at="2020-07-18T14:17:52 IST" name="Test2_2" finished-at="2020-07-18T14:17:52 IST" duration-ms="2" status="FAIL">
+        <test-method signature="Test2_2()[pri:2, instance:Extent.Adapter.Test2@1356d4d4]" started-at="2020-07-20T10:41:13 IST" name="Test2_2" finished-at="2020-07-20T10:41:13 IST" duration-ms="1" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -59,11 +59,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         </test-method> <!-- Test2_2 -->
       </class> <!-- Extent.Adapter.Test2 -->
       <class name="Extent.Adapter.Test1">
-        <test-method signature="Test1_1()[pri:1, instance:Extent.Adapter.Test1@d21a74c]" started-at="2020-07-18T14:17:52 IST" name="Test1_1" finished-at="2020-07-18T14:17:52 IST" duration-ms="13" status="PASS">
+        <test-method signature="Test1_1()[pri:1, instance:Extent.Adapter.Test1@55f616cf]" started-at="2020-07-20T10:41:13 IST" name="Test1_1" finished-at="2020-07-20T10:41:13 IST" duration-ms="21" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1_1 -->
-        <test-method signature="Test1_2()[pri:2, instance:Extent.Adapter.Test1@d21a74c]" started-at="2020-07-18T14:17:52 IST" name="Test1_2" finished-at="2020-07-18T14:17:52 IST" duration-ms="6" status="FAIL">
+        <test-method signature="Test1_2()[pri:2, instance:Extent.Adapter.Test1@55f616cf]" started-at="2020-07-20T10:41:13 IST" name="Test1_2" finished-at="2020-07-20T10:41:13 IST" duration-ms="3" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
